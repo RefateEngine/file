@@ -1,6 +1,6 @@
 ## マインクラフトゲームルールテンプレート日本語
 # 作者 @kabochaxa
-# リポジトリ https://github.com/RefateEngine/gamerule
+# リポジトリ https://github.com/RefateEngine/file
 # JE 1.21
 
 # # # # # # # # # #
