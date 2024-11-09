@@ -154,7 +154,7 @@ gamerule doMobLoot true
 # ブロックのドロップ
 # ブロックがアイテムや経験値オーブをドロップするかを設定できます。
 # デフォルト:true
-gamerule doTileDrops
+gamerule doTileDrops true
 
 # Mob爆発時にブロックがドロップアイテムを落とさない可能性
 # Mobによる爆発で破壊されたブロックからのドロップアイテムの一部が、その爆発によって消失するかを設定できます。
@@ -179,11 +179,11 @@ gamerule tntExplosionDropDecay false
 
 # ゲーム内時刻の進行
 # デフォルト:true
-gamerule doDaylightCycle
+gamerule doDaylightCycle true
 
 # 炎の更新
 # デフォルト:true
-gamerule doFireTick
+gamerule doFireTick true
 
 # ツタの成長
 # ツタがランダムに隣接するブロックへと成長するか同課を設定できます。しだれツタやねじれツタなど、他のブロックには影響しません。
